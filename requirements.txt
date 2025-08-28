@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+scikit-learn
+statsmodels
+matplotlib
+plotly
+streamlit
+sqlalchemy
+pyspark
+pymongo
+psycopg2-binary

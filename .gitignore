@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+venv/
+.Python
+
+# Editor
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Data & DB artifacts
+data/
+*.sqlite
+*.db
+*.parquet
+
+# Logs and env files
+*.log
+.env
+ 
